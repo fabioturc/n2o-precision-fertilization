@@ -1,0 +1,31 @@
+# --- R -------------------------------------------------------------------
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# --- Python --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+poetry.lock
+
+# --- Data ----------------------------------------------------------------
+# No data are distributed with this repository. The input data are archived in the
+# ETH Research Collection (see data/raw/README.md); the downloaded files and
+# everything derived from them stay out of git.
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/.gitkeep
+
+# --- Outputs -------------------------------------------------------------
+figures/*
+!figures/.gitkeep
+
+# --- Misc ----------------------------------------------------------------
+.DS_Store
+Thumbs.db
+deprecated/
+temp/

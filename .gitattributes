@@ -1,0 +1,18 @@
+# Normalise line endings in the repository; check out native on each platform.
+* text=auto
+*.R      text diff=r
+*.py     text diff=python
+*.md     text
+*.yml    text
+*.ipynb  text
+
+# Strip notebook outputs on commit (requires nbstripout, see README)
+*.ipynb  filter=nbstripout diff=ipynb
+# Binary / already-compressed assets
+*.zip      binary
+*.parquet  binary
+*.png      binary
+*.tif      binary
+*.shp      binary
+*.shx      binary
+*.dbf      binary

@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article."
+title: "Code for: TITLE PLACEHOLDER"
+type: software
+authors:
+  - family-names: Turco
+    given-names: Fabio
+repository-code: "https://github.com/fabioturc/n2o-precision-fertilization"
+version: "0.9.0"
+date-released: "DATE PLACEHOLDER"
+license: MIT
+keywords:
+  - nitrous oxide
+  - eddy covariance
+  - variable rate fertilization
+  - winter wheat
+  - flux footprint
+references:
+  - type: dataset
+    title: "Input data for the analysis of N2O fluxes under business-as-usual and variable rate N fertilization of winter wheat at CH-TAN (Tänikon, Switzerland)"
+    authors:
+      - family-names: Turco
+        given-names: Fabio
+    doi: "10.3929/ethz-c-000807633"
+    publisher:
+      name: "ETH Zurich Research Collection"
+    year: 2026
+  - type: dataset
+    title: "CH-TAN wheat 2023-24 flux product: eddy covariance fluxes (CO2, H2O, H, LE, N2O, CH4), meteo and management of a winter wheat field in Tänikon, Switzerland (October 2023 - August 2024)"
+    authors:
+      - family-names: Turco
+        given-names: Fabio
+      - family-names: Hörtnagl
+        given-names: Lukas
+    doi: "10.3929/ethz-c-000807457"
+    publisher:
+      name: "ETH Zurich Research Collection"
+    year: 2026
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Turco
+      given-names: Fabio
+  title: "TITLE PLACEHOLDER"
+  journal: "JOURNAL PLACEHOLDER"
+  year: 2026
+  notes: "Manuscript under review; citation details will be updated on publication."
