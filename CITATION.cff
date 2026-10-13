@@ -1,13 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the associated article."
-title: "Code for: TITLE PLACEHOLDER"
+message: "If you use this code, please cite this repository. A reference to the associated article will be added once it is published."
+title: "CH-TAN winter wheat precision fertilization: N2O analysis code"
 type: software
 authors:
   - family-names: Turco
     given-names: Fabio
 repository-code: "https://github.com/fabioturc/n2o-precision-fertilization"
 version: "0.9.0"
-date-released: "DATE PLACEHOLDER"
+date-released: "2026-10-13"
 license: MIT
 keywords:
   - nitrous oxide
@@ -36,12 +36,3 @@ references:
     publisher:
       name: "ETH Zurich Research Collection"
     year: 2026
-preferred-citation:
-  type: article
-  authors:
-    - family-names: Turco
-      given-names: Fabio
-  title: "TITLE PLACEHOLDER"
-  journal: "JOURNAL PLACEHOLDER"
-  year: 2026
-  notes: "Manuscript under review; citation details will be updated on publication."

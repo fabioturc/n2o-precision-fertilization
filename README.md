@@ -1,13 +1,9 @@
-# Code for: "TITLE PLACEHOLDER"
+# CH-TAN winter wheat precision fertilization: N2O analysis code
 
-> **Status.** Pre-release accompanying a manuscript that is currently under review.
-> The citation below, the release version and the access status of the data records
-> will be updated once the article is published.
-
-This repository contains the code used in the analysis for:
-
-> Turco et al. (YEAR PLACEHOLDER).
-> *Title placeholder.* *Journal Name PLACEHOLDER*.
+> **Status: pre-release.** This is the analysis code for a manuscript in preparation,
+> published ahead of submission. The full citation (authors, title, journal, year), the
+> release version and the access status of the data records will be added once the
+> article is published.
 
 The study compares business-as-usual (BAU) and variable rate application (VRA) N
 fertilization of winter wheat at the Swiss cropland site **CH-TAN** (Tänikon), using
